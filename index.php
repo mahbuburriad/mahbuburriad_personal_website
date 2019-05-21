@@ -424,7 +424,7 @@
                             <h5 class=title>Computer Science And Engineering</h5>
                             <h6></h6>
                             <p class=description>
-                                I have done My Bachelor of Science Degree in Computer Science and Engineering from North South University and At University done many activities on CSE and join many competition program <span class=date>Oct 2013 - Running</span>
+                                I have done My Bachelor of Science Degree in Computer Science and Engineering from North South University and At University done many activities on CSE and join many competition program <span class=date>Oct 2013 - Dec 2018</span>
                             </p>
                         </div>
                     </div>
@@ -630,7 +630,7 @@ echo "<br>
             <div class="row text-center">
                 <div class=col-md-12>
                     <p class="copy pt-30">
-                        Mahbubur Riad &copy; 2018. All Right Reserved.
+                        Mahbubur Riad &copy; <?php echo date("Y")?>. All Right Reserved.
                     </p>
                 </div>
             </div>
