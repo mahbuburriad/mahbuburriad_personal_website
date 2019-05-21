@@ -10,14 +10,9 @@
     <meta name=description content="Mahbubur Riad web developer designer coder best top most popular programmer in Bangladesh at present time many he done with many web and client are happy">
     <meta name=author content="Mahbubur Riad">
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125401402-1"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-function gtag(){dataLayer.push(arguments);}
-gtag('js', new Date());
-gtag('config', 'UA-125401402-1');
-</script>
+
     <title>Mahbubur Riad - Personal Profile</title>
-    
+
     <link href="assets/images/logo.png" rel=icon type="image/png">
     <link rel=stylesheet href="assets/css/fontawesome-all.min.css">
     <link rel=stylesheet href="assets/bootstrap/css/bootstrap.min.css">
@@ -72,7 +67,7 @@ gtag('config', 'UA-125401402-1');
             </div>
         </div>
     </nav>
-    <section id=Particle-ground class=banner style="background-image: url('assets/images/background/cover_image.jpg')" data-stellar-background-ratio=.7 data-scroll-index=0>
+    <section id=Particle-ground class=banner style="background-image: url('assets/images/background/cover_image.webp')" data-stellar-background-ratio=.7 data-scroll-index=0>
         <div class=container>
             <div class=banner-div>
                 <h1>HI! I'M <span>Mahbubur Riad</span></h1>
@@ -115,8 +110,8 @@ gtag('config', 'UA-125401402-1');
                             <h2>About <span>Me</span></h2>
                             <h4> Computer Engineer &amp; Web Developer</h4>
                         </div>
-                        <p>Hi, I am <b style="color: #FC6F5C"> Md. Mahbubur Rahman.</b> I am from Jamalpur. But Now I am living in Dhaka. I completed my SSC From Sarishabari Reaz Uddin Talukder High School. And Completed my HSC From Trust College, Dhaka. Now I am studying at North South University at Computer Science and Engineering department. I Fully focus on my career, skill development, and want to do something which was never happen before.</p>
-                        <p>My personal interest in software side is web related things. That means Database, website development, design and also android software development</p>
+                        <p>Hi, I am <b style="color: #FC6F5C"> Md. Mahbubur Rahman.</b> I am from Jamalpur. But Now I am living in Dhaka. I completed my SSC From Sarishabari Reaz Uddin Talukder High School. And Completed my HSC From Trust College, Dhaka. And graduation from North South University in Computer Science and Engineering department. I Fully focus on my career, skill development, and want to do something which was never happen before.</p>
+                        <p>My personal interest in software side and thats are web related things, such as Database, website development, design and also android software development</p>
                         <p>My Career Object is to obtain a position in a challenging environment where I can improve my learning experiences and programming skills. Also, I would like to acquire knowledge about new technologies so that I can see myself as a positive contributor in advanced technology.</p>
                         <div class=table-responsive>
                             <table class=info-table>
@@ -140,7 +135,7 @@ gtag('config', 'UA-125401402-1');
                                             <i class="hidden-xs  fas fa-paper-plane"></i>
                                             <span>Email</span>
                                         </th>
-                                        <td>mahbubur.riad@outlook.com &amp; mahbubur.riad@northsouth.edu</td>
+                                        <td>mahbubur.riad@outlook.com <br> mahbubur.riad@northsouth.edu</td>
                                     </tr>
                                     <tr>
                                         <th>
@@ -160,7 +155,7 @@ gtag('config', 'UA-125401402-1');
                 </div>
                 <div class="col-lg-5 col-md-6">
                     <div class=about-img>
-                        <img src="assets/images/mahbubur_riad_image.jpg" class=img-fluid alt="Mahbubur Riad Image">
+                        <img src="assets/images/mahbubur_riad.webp" class=img-fluid alt="Mahbubur Riad">
                     </div>
                 </div>
             </div>
@@ -178,12 +173,12 @@ gtag('config', 'UA-125401402-1');
                 <div class=col-lg-6>
                     <h2 class=headline>Programming <span>Language</span> </h2>
                     <p>PHP, C++, C, HTML, CSS, JavaScript, jQuery, AJAX, JAVA, Python, Unix Shell Scripting, Bootstrap, Matlab, Leaflet, XML, Clips, Perl, </p>
-                    
+
                     <h2 class=headline>Databases <span>SQL</span> </h2>
                     <p>MySQL, Oracle</p>
-                    
+
                     <h2 class=headline>Softwares <span>frameworks &amp; CMS</span> </h2>
-                    <p>Open street Map, Google Map, Machine Learning, Android Studio, WordPress, Bootstraps, Laravel  Bracket, Eclipse IDE, Code-blocks, MATLAB R2016a, PyCharm, windows, linux, Adobe Photoshop</p>
+                    <p>Open street Map, Google Map, Machine Learning, Android Studio, WordPress, Bootstraps, Laravel Bracket, Eclipse IDE, Code-blocks, MATLAB R2016a, PyCharm, windows, linux, Adobe Photoshop</p>
                 </div>
             </div>
         </div>
@@ -462,20 +457,7 @@ gtag('config', 'UA-125401402-1');
             <div class=row>
                 <div class="col-lg-10 offset-lg-1">
                     <div id=testimonial-slider class=owl-carousel>
-          <!--              <div class=testimonial>
-                            <p class=testi-description>
-                                Lorem Ipsum is simply dummy text of the printing and type setting industry when an unknown printer took a galley of type and scrambled it to make a type specimen book It has survived not only five centuries.
-                            </p>
-                            <div class=testimonial-review>
-                                <div class=pic>
-                                    <img src="assets/images/user/ashfia_binte_habib_opt.jpg" alt="">
-                                </div>
-                                <h4 class=testimonial-title>
-                                    Ashfia Binte Habib
-                                    <small>Faculty, North South University</small>
-                                </h4>
-                            </div>
-                        </div>-->
+
                         <div class=testimonial>
                             <p class=testi-description>
                                 Riad, a person who is kind of introvert but going to be one of the most promising manpower in IT sector in upcoming days, i think. He is has a good practical efficiency in IT and computer based knowledge, operations &amp; others. He always loves to take challenges and work with at his best. I know him from the last 10 years.
@@ -504,20 +486,7 @@ gtag('config', 'UA-125401402-1');
                                 </h4>
                             </div>
                         </div>
-      <!--                  <div class=testimonial>
-                            <p class=testi-description>
-                                Lorem Ipsum is simply dummy text of the printing and type setting industry when an unknown printer took a galley of type and scrambled it to make a type specimen book It has survived not only five centuries.
-                            </p>
-                            <div class=testimonial-review>
-                                <div class=pic>
-                                    <img src="assets/images/user/Dr_opt.jpg" alt="">
-                                </div>
-                                <h4 class=testimonial-title>
-                                    Dr. Shazzad Hosain
-                                    <small>Faculty, North South University</small>
-                                </h4>
-                            </div>
-                        </div>-->
+
                     </div>
                 </div>
             </div>
@@ -537,11 +506,11 @@ gtag('config', 'UA-125401402-1');
             </div>
             <div class=row>
                 <div class=col-lg-8>
-                    <form id=contact-form method=POST><input type=hidden name=form-name value=contactForm />
+                    <form  action="index.php" method="post">
                         <div class=row>
                             <div class=col-md-6>
                                 <div class=form-group>
-                                    <input name=name class=form-control id=first-name placeholder="Name *" required>
+                                    <input type="text" name=name class=form-control id=first-name placeholder="Name *">
                                 </div>
                             </div>
                             <div class=col-md-6>
@@ -551,16 +520,86 @@ gtag('config', 'UA-125401402-1');
                             </div>
                             <div class=col-md-12>
                                 <div class=form-group>
-                                    <textarea rows=6 name=message class=form-control id=description placeholder="Message *" required></textarea>
+                                    <input type="text" name="subject" class=form-control placeholder="Subject *" required>
+                                </div>
+                            </div>
+                            <div class=col-md-12>
+                                <div class=form-group>
+                                    
+                                    <textarea rows="6" class=form-control name="message" id=description placeholder="Message *" required></textarea>
                                 </div>
                             </div>
                             <div class="col-md-12 text-center">
-                                <button id=contact-submit class=div-btn>
+                                <button type="submit" name="submit" id=contact-submit class=div-btn>
                                     Send Message
                                 </button>
                             </div>
                         </div>
                     </form>
+                    <!-- form start -->
+
+                    <?php
+
+if(isset($_POST['submit'])){
+    
+    
+
+// Admin receives email through this code
+
+$sender_name = $_POST['name'];
+
+$sender_email = $_POST['email'];
+
+$sender_subject = $_POST['subject'];
+
+$sender_message = $_POST['message'];
+
+
+    
+    $server = $_SERVER['HTTP_REFERER'];
+
+$new_message = "
+
+<h1> This Message Has Been Sent By $sender_name </h1>
+
+<p> <b> Sender Email :  </b> <br> $sender_email </p>
+
+<p> <b> Sender Subject :  </b> <br> $sender_subject </p>
+
+<p> <b> Sender Message :  </b> <br> $sender_message </p>
+
+<p> <b> Message send From :  </b> <a href='$server'>$server</a> </p>
+
+";
+
+$headers = "From: $sender_email \r\n";
+
+$headers .= "Content-type: text/html\r\n";
+$contact_email = "mahbubur.riad@northsouth.edu";
+
+mail($contact_email,$sender_subject,$new_message,$headers);
+
+
+
+echo "<br>
+                            <div id='success' class='successbox-default'>
+                                <div class='icon-container'>
+                                    <i class='fa fa-check'></i>
+                                </div>
+
+                                <div class='notification-container'>
+                                    <p>
+                                        Message has been Send successfully. 
+                                        We will reply as soon as possible
+                                    </p>
+                                </div>
+                            </div>
+    
+    ";
+}
+
+
+?>
                 </div>
                 <div class=col-lg-4>
                     <div class=contact-info>
