@@ -167,7 +167,7 @@
                 <div class=col-lg-6>
                     <div class=skill-div>
                         <h2 class=headline>My <span>Skill</span></h2>
-                        <p>I am fully focused on programming career and i love coding &amp; problem solving with Teamwork. I did many work and project for university course related and many clients to make website or database related website, such as ecommerce website, static website. and not only that i can make android apps. i have done 3 large android project yet but in future counting will increadibly increase. <br> I think i will be the best hard working person in any company. All company will get best benifit. i want to build my career on Data Science </p>
+                        <p>I am fully focused on programming career and i love coding &amp; problem solving with Teamwork. I did many course related work and project at university  and many clients to make website or database related website, such as ecommerce website, static website. and not only that i can make android apps. i have done 3 large android project yet but in future counting will increadibly increase. <br> I think i will be the best hard working person in any company. A company will get best benifit from me. i want to build my career on Database and related things </p>
                     </div>
                 </div>
                 <div class=col-lg-6>
@@ -282,13 +282,13 @@
             <div class="row portfolio-section">
                 <div class="col-lg-4 col-md-6 item development">
                     <div class=portfolio-item>
-                        <img src="assets/images/portfolio/shopcart.png" alt="">
+                        <img src="assets/images/portfolio/shopcart.webp" alt="">
                         <div class=item-overlay>
                             <h6>Shopcart</h6>
                             <div class=icons>
                                 <span class=icon>
                                     <span class=port-link>
-                                        <a href="assets/images/portfolio/large/shopcart.PNG">
+                                        <a href="assets/images/portfolio/large/shopcart.webp">
                                             <i class="fa fa-search"></i>
                                         </a>
                                     </span>
@@ -302,13 +302,13 @@
                 </div>
                 <div class="col-lg-4 col-md-6 item development">
                     <div class=portfolio-item>
-                        <img src="assets/images/portfolio/automatedaccommodation.png" alt="">
+                        <img src="assets/images/portfolio/automatedaccommodation.webp" alt="">
                         <div class=item-overlay>
                             <h6>Automated Accommodation</h6>
                             <div class=icons>
                                 <span class=icon>
                                     <span class=port-link>
-                                        <a href="assets/images/portfolio/large/automatedaccommodation.PNG">
+                                        <a href="assets/images/portfolio/large/automatedaccommodation.webp">
                                             <i class="fa fa-search"></i>
                                         </a>
                                     </span>
@@ -322,13 +322,13 @@
                 </div>
                 <div class="col-lg-4 col-md-6 item application hardware">
                     <div class=portfolio-item>
-                        <img src="assets/images/portfolio/waterquality.jpg" alt="">
+                        <img src="assets/images/portfolio/waterquality.webp" alt="">
                         <div class=item-overlay>
                             <h6>Water Quality Measurement</h6>
                             <div class=icons>
                                 <span class=icon>
                                     <span class=port-link>
-                                        <a href="assets/images/portfolio/large/waterquality.jpg">
+                                        <a href="assets/images/portfolio/large/waterquality.webp">
                                             <i class="fa fa-search"></i>
                                         </a>
                                     </span>
@@ -339,13 +339,13 @@
                 </div>
                 <div class="col-lg-4 col-md-6 item development">
                     <div class=portfolio-item>
-                        <img src="assets/images/portfolio/bhl.jpg" alt="">
+                        <img src="assets/images/portfolio/bhl.webp" alt="">
                         <div class=item-overlay>
                             <h6>Bashundhara Housing Limited</h6>
                             <div class=icons>
                                 <span class=icon>
                                     <span class=port-link>
-                                        <a href="assets/images/portfolio/large/bhl.jpg">
+                                        <a href="assets/images/portfolio/large/bhl.webp">
                                             <i class="fa fa-search"></i>
                                         </a>
                                     </span>
@@ -359,13 +359,13 @@
                 </div>
                 <div class="col-lg-4 col-md-6 item  hardware">
                     <div class=portfolio-item>
-                        <img src="assets/images/portfolio/231.jpg" alt="">
+                        <img src="assets/images/portfolio/231.webp" alt="">
                         <div class=item-overlay>
                             <h6>Letter Reading</h6>
                             <div class=icons>
                                 <span class=icon>
                                     <span class=port-link>
-                                        <a href="assets/images/portfolio/large/231.jpg">
+                                        <a href="assets/images/portfolio/large/231.webp">
                                             <i class="fa fa-search"></i>
                                         </a>
                                     </span>
@@ -379,13 +379,13 @@
                 </div>
                 <div class="col-lg-4 col-md-6 item development application">
                     <div class=portfolio-item>
-                        <img src="assets/images/portfolio/rsz_1capture.jpg" alt="">
+                        <img src="assets/images/portfolio/rsz_1capture.webp" alt="">
                         <div class=item-overlay>
                             <h6>Medicus- A Virtual Doctor</h6>
                             <div class=icons>
                                 <span class=icon>
                                     <span class=port-link>
-                                        <a href="assets/images/portfolio/Screenshot_20181111-214037_Medicus.jpg">
+                                        <a href="assets/images/portfolio/Screenshot_20181111-214037_Medicus.webp">
                                             <i class="fa fa-search"></i>
                                         </a>
                                     </span>
